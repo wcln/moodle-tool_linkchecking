@@ -1,0 +1,57 @@
+<div class="hero-unit">
+	<h4><b>Link Results</b></h4>
+	{{#count}}
+		<p>There are {{number}} {{linktype}} links in {{course}}.</p>
+	{{/count}}
+	{{^count}}
+		<p>How to save and edit the lists below:</p>
+		<ol>
+			<li>Click to open them</li>
+			<li>Download the .txt file or copy all the displayed text and save in a .txt file</li>
+			<li>Open Google Sheets or a similar software</li>
+			<li>Import the .txt file, specify a comma as the separator</li>
+		</ol>
+		<table class="table">
+			<tr>
+				<th>Results for {{course}}</th>
+				<th>Count</th>
+			</tr>
+			{{#http}}
+				<tr>
+					<td><a href="results/good_http_links.txt">Working HTTP Links</a></td>
+					<td>{{goodhttpcount}}</td>
+				<tr>
+				<tr>
+					<td><a href="results/broken_http_links.txt">Broken HTTP Links</a></td>
+					<td>{{brokenhttpcount}}</td>
+				<tr>
+				{{#conversion}}
+					<tr>
+						<td><a href="results/good_https_links.txt">Working HTTPS Links</a></td>
+						<td>{{goodhttpscount}}</td>
+					<tr>
+					<tr>
+						<td><a href="results/broken_https_links.txt">Broken HTTPS Links</a></td>
+						<td>{{brokenhttpscount}}</td>
+					<tr>
+				{{/conversion}}
+			{{/http}}
+			{{#https}}
+				<tr>
+					<td><a href="results/good_https_links.txt">Working HTTPS Links</a></td>
+					<td>{{goodhttpscount}}</td>
+				<tr>
+				<tr>
+					<td><a href="results/broken_https_links.txt">Broken HTTPS Links</a></td>
+					<td>{{brokenhttpscount}}</td>
+				<tr>
+			{{/https}}
+		</table>
+		{{#update}}
+			<p><img src="images/checkmark.png" />Links in database successfully updated! {{goodhttpscount}} HTTP links were changed to HTTPS.</p>
+		{{/update}}
+		<p>Script took {{elapsed}} seconds.</p>
+	{{/count}}
+
+	<a href="index.php"><button value="Back">Back</button></a>
+</div>
