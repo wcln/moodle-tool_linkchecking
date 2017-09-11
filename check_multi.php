@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Link Checking
+ * This file provides all functions required to check if links are working
  *
  * @package    tool_linkchecking
  * @copyright  2017 Colin Bernard {@link http://bclearningnetwork.com}
@@ -79,16 +79,16 @@ function query_database($urltype = "http", $course_fullname = null) {
     global $DB; 
 
 
-    $query =   "SELECT mdl_book_chapters.id, fullname, shortname, mdl_course_modules.section, mdl_course_sections.name, mdl_book.name AS book, content, title
-                FROM mdl_book_chapters, mdl_book, mdl_course, mdl_course_modules, mdl_course_sections, mdl_course_categories
-                WHERE mdl_book.id = mdl_book_chapters.bookid
-                AND mdl_course.id = mdl_book.course
-                AND mdl_course_modules.course = mdl_course.id
-                AND mdl_course_modules.instance = mdl_book.id
-                AND mdl_course_modules.module = 18
-                AND mdl_course_sections.id = mdl_course_modules.section
-                AND mdl_course.category = mdl_course_categories.id
-                AND (mdl_course_categories.parent = 28 OR mdl_course_categories.parent = 28)";
+    $query =   "SELECT {book_chapters}.id, fullname, shortname, {course_modules}.section, {course_sections}.name, {book}.name AS book, content, title
+                FROM {book_chapters}, {book}, {course}, {course_modules}, {course_sections}, {course_categories}
+                WHERE {book}.id = {book_chapters}.bookid
+                AND {course}.id = {book}.course
+                AND {course_modules}.course = {course}.id
+                AND {course_modules}.instance = {book}.id
+                AND {course_modules}.module = 18
+                AND {course_sections}.id = {course_modules}.section
+                AND {course}.category = {course_categories}.id
+                AND ({course_categories}.parent = 28 OR {course_categories}.parent = 28)";
 
     if ($urltype == "http") {
         $query .= " AND content LIKE '%http:%' ";
@@ -332,15 +332,6 @@ function analyze_results($results, $is_https = false, $check_conversion = false)
         }
     }
 
-    // if (!$is_https) {
-    //     echo "Broken HTTP links: " .  count($broken_links) . "\n";
-    //     echo "Good HTTP links: " . count($good_links) . "\n";
-    // } else {
-    //     echo "Broken HTTPS links: " .  count($broken_links) . "\n";
-    //     echo "Good HTTPS links: " . count($good_links) . "\n";
-    // }
-
-
     $broken_links_string = "";
 
     foreach ($broken_links as $bl) {
@@ -402,7 +393,7 @@ function update_http_to_https_in_database($data) {
         // get old content from database
         $params = [];
         $params[] = $d['id'];
-        $content = $DB->get_record_sql('SELECT content FROM mdl_book_chapters WHERE id=?', $params);
+        $content = $DB->get_record_sql('SELECT content FROM {book_chapters} WHERE id=?', $params);
 
 
         // replace http link with https link in old content
@@ -413,7 +404,7 @@ function update_http_to_https_in_database($data) {
         $params = [];
         $params[] = $new_content;
         $params[] = $d['id'];
-        $DB->execute('UPDATE mdl_book_chapters SET content=? WHERE id=?', $params);
+        $DB->execute('UPDATE {book_chapters} SET content=? WHERE id=?', $params);
     }
 }
 
