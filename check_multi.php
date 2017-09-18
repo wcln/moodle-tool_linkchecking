@@ -91,9 +91,9 @@ function query_database($urltype = "http", $course_fullname = null) {
                 AND ({course_categories}.parent = 28 OR {course_categories}.parent = 28)";
 
     if ($urltype == "http") {
-        $query .= " AND content LIKE '%http:%' OR {course_sections}.summary LIKE '%http:%'";
+        $query .= " AND (content LIKE '%http:%' OR {course_sections}.summary LIKE '%http:%')";
     } else { // https
-        $query .= " AND content LIKE '%https:%' OR {course_sections}.summary LIKE '%https:%'";
+        $query .= " AND (content LIKE '%https:%' OR {course_sections}.summary LIKE '%https:%')";
     }
 
     if (!is_null($course_fullname)) {

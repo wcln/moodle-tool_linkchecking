@@ -1,0 +1,134 @@
+Accounting 11,Accounting 11,Unit 1,Topic 5 - Becoming a Professional Accountant,Accounting as a Profession,https://www.cga-canada.org/,0,Unknown SSL protocol error in connection to www.cga-canada.org:443 
+Social Studies 09,SS 09,Unit 1,1.3 North America's First Peoples,First Nations Languages,https://www.firstvoices.com/en/home,0,Failed to connect to www.firstvoices.com port 443: Connection refused
+Earth Science 11,ESC 11,,Release Notes,Summer 2011,https://video.nationalgeographic.com/video/player/science/space-sci/solar-system/solar-system-sci.html,0,Failed to connect to video.nationalgeographic.com port 443: Connection refused
+Earth Science 11,ESC 11,,Release Notes,Summer 2011,https://video.nationalgeographic.com/video/player/science/space-sci/solar-system/sun-101-sci.html,0,Failed to connect to video.nationalgeographic.com port 443: Connection refused
+Earth Science 11,ESC 11,,Release Notes,Summer 2011,https://video.nationalgeographic.com/video/player/national-geographic-channel/shows/naked-science/ngc-a-star-is-born-1.html,0,Failed to connect to video.nationalgeographic.com port 443: Connection refused
+Communications 11,COM 11,Unit 1,Lesson 3,Introduction and Focus,https://www.ebizmba.com/articles/search-engines,0,error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol
+Family Studies 12,FM 12,Module 1- Families in Society,Section 3 - Facing Family Challenges,Finding Help,https://www.hc-sc.gc.ca/fn-an/food-guide-aliment/myguide-monguide/index-eng.php,0,Failed to connect to www.hc-sc.gc.ca port 443: Connection timed out
+Family Studies 12,FM 12,Module 1- Families in Society,Putting it together,Research Project,https://noc.esdc.gc.ca/English/home.aspx,0,Connection timed out after 100000 milliseconds
+Family Studies 12,FM 12,Module 2 - Interpersonal and Family Relationships,Section 2 - Relationships,Forms of Love,https://www.ehow.co.uk/video_4986822_choose-partner-life.html,500,
+Family Studies 12,FM 12,Module 2 - Interpersonal and Family Relationships,Section 3 - Wellness and Safety in Interpersonal Relationships,Understanding Violence,https://www.gov.bc.ca/mcf/,404,
+Family Studies 12,FM 12,Module 2 - Interpersonal and Family Relationships,Section 3 - Wellness and Safety in Interpersonal Relationships,Understanding Violence,https://www.safekidsbc.ca/,0,Unknown SSL protocol error in connection to www.safekidsbc.ca:443 
+Chemistry 11,CH 11,Unit 1,Significant Figures and Rounding,Activities,https://antoine.frostburg.edu/chem/senese/101/measurement/sigfig-quiz.shtml,0,Failed to connect to antoine.frostburg.edu port 443: Connection reset by peer
+Chemistry 11,CH 11,Unit 1,Significant Figures and Rounding,Activities,https://www.dallassd.com/our%20schools/high%20school/chemsite/chem/hotpot/sf.htm,0,Connection timed out after 100000 milliseconds
+Chemistry 11,CH 11,Unit 1,Significant Figures and Rounding,Activities,https://www.mrwiggersci.com/chem/Tutorials/Ch2-Interact-Pract-Sig-Figs-Blacksburg.htm,0,Unknown SSL protocol error in connection to www.mrwiggersci.com:443 
+Chemistry 11,CH 11,Unit 1,Lab Safety,Safety Information,https://www.chem.ualberta.ca/%7Eiip/safety_info/safety_proc.htm#Bi,0,Failed to connect to www.chem.ualberta.ca port 443: Connection refused
+Chemistry 11,CH 11,Unit 1,WHMIS,Activites,https://www.edquest.ca/index2.php?option=com_content&amp;task=view&amp;id=110&amp;pop=1&amp;page=0,0,Unknown SSL protocol error in connection to www.edquest.ca:443 
+Chemistry 11,CH 11,Unit 1,Density, Graphs and Slope,Examples,https://www.lenntech.com/periodic-chart-elements/density.htm,0,Failed to connect to www.lenntech.com port 443: No route to host
+Chemistry 11,CH 11,Unit 1,Mixtures,Activity,https://antoine.frostburg.edu/chem/senese/101/matter/classify-properties-quiz.shtml,0,Failed to connect to antoine.frostburg.edu port 443: Connection reset by peer
+Chemistry 11,CH 11,Unit 1,Mixtures,Activity,https://antoine.frostburg.edu/chem/senese/101/matter/classify-properties-quiz.shtml,0,Failed to connect to antoine.frostburg.edu port 443: Connection reset by peer
+Chemistry 11,CH 11,Unit 2,Atoms, Molecules and Ions Classification ,The Atomic Model,https://atomictimeline.net/index.php,404,
+Chemistry 11,CH 11,Unit 2,Bohr &amp; Quantum Theory,Activities,https://www.zerobio.com/drag_gr9/bohr/bohr.htm,0,Connection timed out after 100000 milliseconds
+Chemistry 11,CH 11,Unit 2,Bohr &amp; Quantum Theory,Activities,https://www.chempractice.com/drills/java_Bohr.php,0,Unknown SSL protocol error in connection to www.chempractice.com:443 
+Chemistry 11,CH 11,Unit 4,Molar Mass and Compounds,Activities,https://www.cstephenmurray.com/onlinequizes/chemistry/moles/findingmolarmass.htm,404,
+Chemistry 11,CH 11,Unit 4,Molar Concentration,Activities,https://ths.sps.lane.edu/chemweb/unit6/problems/molarity/,0,Unknown SSL protocol error in connection to ths.sps.lane.edu:443 
+Chemistry 11,CH 11,Unit 5,Balancing Equations  	 	,Activities,https://funbasedlearning.com/chemistry/chemBalancer/default.htm,0,error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol
+Chemistry 11,CH 11,Unit 5,Stoichiometry,Tutorials,https://www.digitalillusions.ca/applewoodscience/LessonsOnLiine/Chemistry/SCH3U0/stoichiometry/stoichiometry.html#anchor361011,404,
+Chemistry 11,CH 11,Unit 5,Stoichiometry,Activities,https://www.algebralab.org/practice/practice.aspx?file=Algebra_Stoichiometry.xml,0,Connection timed out after 100000 milliseconds
+Chemistry 11,CH 11,Unit 5,Stoichiometry,Activities,https://www.chemcollective.org/mr/index.php,404,
+Chemistry 11,CH 11,Unit 5,Limiting Reagents,Activities,https://ths.sps.lane.edu/chemweb/unit3/problems/limreact/index.htm,0,Unknown SSL protocol error in connection to ths.sps.lane.edu:443 
+Chemistry 11,CH 11,Unit 7 - Optional Content,Structural Representations,Activities,https://www.chembio.uoguelph.ca/educmat/chm19104/nomenclature/quizes.html,0,Unknown SSL protocol error in connection to www.chembio.uoguelph.ca:443 
+Chemistry 11,CH 11,Unit 7 - Optional Content,Isomers of Alkanes,Activities,https://www.chemguide.co.uk/basicorg/isomerism/structural.html,404,
+Chemistry 11,CH 11,Unit 7 - Optional Content,Isomers of Alkanes,Activities,https://www.gcsescience.com/o27.htm,0,Failed to connect to www.gcsescience.com port 443: Connection refused
+Chemistry 11,CH 11,Unit 7 - Optional Content,Naming Organic Compounds,Activities,https://www.chemguide.co.uk/basicorg/conventions/names.html,404,
+Chemistry 11,CH 11,Unit 7 - Optional Content,Hydrocarbon Derivatives and Synthesis,Activities,https://exercises.murov.info/ex16-1.htm,404,
+Business Computer Applications 11,BCA 11,Unit 1 - Introduction,1-1 Basics,Netiquette,https://www.networketiquette.net/,0,Failed to connect to www.networketiquette.net port 443: Connection refused
+Business Computer Applications 11,BCA 11,Unit 1 - Introduction,1-1 Basics,Citing Sources,https://www.apastyle.org/learn/tutorials/basics-tutorial.aspx,0,Connection timed out after 100000 milliseconds
+Business Computer Applications 11,BCA 11,Unit 1 - Introduction,1-1 Basics,Citing Sources,https://www.apastyle.org,0,Connection timed out after 100000 milliseconds
+Business Computer Applications 11,BCA 11,Unit 2 - Software,2-2 Using the word processor,The business letter,https://owl.english.purdue.edu/owl/resource/653/01/,0,Failed to connect to owl.english.purdue.edu port 443: Connection reset by peer
+Business Computer Applications 11,BCA 11,Unit 2 - Software,2-4 Spreadsheets,Introduction,https://www.tutorialsforopenoffice.org/tutorial/Spreadsheet_Basics.html,404,
+Business Computer Applications 11,BCA 11,Unit 2 - Software,2-4 Spreadsheets,Formulas,https://www.tutorialsforopenoffice.org/tutorial/Spreadsheet_Math.html,404,
+Business Computer Applications 11,BCA 11,Unit 2 - Software,2-6 Charts,Introduction,https://www.tutorialsforopenoffice.org/tutorial/Charting_Data.html,404,
+Business Computer Applications 11,BCA 11,Unit 2 - Software,2-6 Charts,Introduction,https://openlearn.open.ac.uk/mod/oucontent/view.php?id=403844&amp;section=2,0,Failed to connect to openlearn.open.ac.uk port 443: Connection refused
+Business Computer Applications 11,BCA 11,Unit 2 - Software,2-10 Databases and searching,Organization,https://www.youtube.com,0,Unknown SSL protocol error in connection to www.youtube.com:443 
+Business Computer Applications 11,BCA 11,Unit 2 - Software,2-10 Databases and searching,Organization,https://www.docs.google.com,0,Unknown SSL protocol error in connection to www.docs.google.com:443 
+Business Computer Applications 11,BCA 11,Unit 2 - Software,2-10 Databases and searching,Organization,https://google-games.info/,0,Connection timed out after 100000 milliseconds
+Business Computer Applications 11,BCA 11,Unit 2 - Software,2-10 Databases and searching,Organization,https://www.google.ca,0,Unknown SSL protocol error in connection to www.google.ca:443 
+Business Computer Applications 11,BCA 11,Unit 2 - Software,2-10 Databases and searching,Organization,https://www.google.ca,0,Unknown SSL protocol error in connection to www.google.ca:443 
+Business Computer Applications 11,BCA 11,Unit 2 - Software,2-10 Databases and searching,Organization,https://www.google.com,0,Unknown SSL protocol error in connection to www.google.com:443 
+Business Computer Applications 11,BCA 11,Unit 2 - Software,2-10 Databases and searching,Searching the internet,https://support.google.com/websearch/?hl=en&amp;rd=1,0,Unknown SSL protocol error in connection to support.google.com:443 
+Business Computer Applications 11,BCA 11,Unit 3 - Digital Portfolio,3-2 Resumes, cover letters and letters of reference,Resume,https://www.youthjobs.ca/find_job.html,0,Unknown SSL protocol error in connection to www.youthjobs.ca:443 
+Business Computer Applications 11,BCA 11,Unit 3 - Digital Portfolio,3-8 Blogs,Set-up,https://learn.wordpress.com/get-acquainted/,0,Unknown SSL protocol error in connection to learn.wordpress.com:443 
+Business Computer Applications 11,BCA 11,Unit 3 - Digital Portfolio,3-8 Blogs,Set-up,https://learn.wordpress.com/get-published/,0,Unknown SSL protocol error in connection to learn.wordpress.com:443 
+Business Computer Applications 11,BCA 11,Unit 3 - Digital Portfolio,3-8 Blogs,Set-up,https://learn.wordpress.com/get-focused/,0,Unknown SSL protocol error in connection to learn.wordpress.com:443 
+Business Computer Applications 11,BCA 11,Unit 3 - Digital Portfolio,3-8 Blogs,Set-up,https://learn.wordpress.com/get-customized/,0,Unknown SSL protocol error in connection to learn.wordpress.com:443 
+Business Computer Applications 11,BCA 11,Unit 4 - Social Networking,4-1 Communication ,Ethical use of the Internet,https://www.rogerdarlington.me.uk/Internetethics.html,0,Unknown SSL protocol error in connection to www.rogerdarlington.me.uk:443 
+Business Computer Applications 11,BCA 11,Unit 4 - Social Networking,4-1 Communication ,Electronic communication,https://www.multicians.org/thvv/emailbad.html,0,Failed to connect to www.multicians.org port 443: Connection refused
+Business Computer Applications 11,BCA 11,Unit 4 - Social Networking,4-1 Communication ,Email,https://www2.elc.polyu.edu.hk/cill/eiw/e-mail.htm,0,Connection timed out after 100000 milliseconds
+Business Computer Applications 11,BCA 11,Unit 4 - Social Networking,4-3 Your Digital Footprint,Your Digital Footprint,https://www.google.ca,0,Unknown SSL protocol error in connection to www.google.ca:443 
+English LF-70,EN LF-70,,Active Reading Strategies,SQ3R,https://teacher.scholastic.com/LessonPlans/pdf/oct_nov05/9SixComprehension.pdf,503,
+English LF-70,EN LF-70,,Active Reading Strategies,Using the Template,https://www2.macleans.ca/2011/08/09/33-perfect-minutes/,0,Connection time-out
+English LF-70,EN LF-70,,Active Reading Strategies,Using the Template,https://www2.macleans.ca/category/canada/,0,Connection timed out after 100000 milliseconds
+English LF-70,EN LF-70,,Reading Poetry,Understanding Poetry,https://www.poetryoutloud.org/poems-and-performance/listen-to-poetry,521,
+English LF-70,EN LF-70,,Reading Poetry,TPCASTT 1,https://www.poetryoutloud.org/poems-and-performance/listen-to-poetry,521,
+English LF-70,EN LF-70,,Reading Poetry,TPCASTT 2,https://www.poetryoutloud.org/poems-and-performance/listen-to-poetry,521,
+English LF-70,EN LF-70,,Reading Poetry,TPCASTT 3,https://www.poetryoutloud.org/poems-and-performance/listen-to-poetry,521,
+English LF-70,EN LF-70,,Reading Poetry,TPCASTT 3,https://www.poetryoutloud.org/poems-and-performance/listen-to-poetry,521,
+English LF-70,EN LF-70,,Lesson 6:  Reading Non-Fiction,Your Assignment,https://www2.macleans.ca/2009/04/02/the-surprising-optimism-of-aboriginal-youth/,0,Connection timed out after 100000 milliseconds
+English LF-70,EN LF-70,,Parts of Speech Review,Nouns,https://english-zone.com/grammar/find-a-noun1.html,0,error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol
+English LF-70,EN LF-70,,Parts of Speech Review,Adjectives,https://english-zone.com/grammar/adjective-find01.html,0,error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol
+English LF-70,EN LF-70,,Parts of Speech Review,Test Practice,https://www.english-grammar-revolution.com/parts-of-speech-quizzes.html,0,Connection time-out
+English LF-70,EN LF-70,,Common Sentence Errors,Pronouns and Antecedents,https://depts.dyc.edu/learningcenter/owl/agreement_pa.htm,403,
+English LF-70,EN LF-70,,Punctuation Review,Using Semi-colons/Colons,https://web2.uvcs.uvic.ca/elc/studyzone/410/grammar/colons.htm,0,Unknown SSL protocol error in connection to web2.uvcs.uvic.ca:443 
+English LF-70,EN LF-70,,Punctuation Review,Using Semi-colons/Colons,https://englishforeveryone.org/PDFs/Semicolons.pdf,404,
+English LF-70,EN LF-70,,Punctuation Review,Using Capitalization,https://www.yourdictionary.com/grammar/capitalization/free-capitalization-worksheet.html,0,Failed to connect to www.yourdictionary.com port 443: Connection refused
+Earth Science 11,ESC 11,Module 2,Minerals, Rocks and the Rock Cycle,Minerals and Mineral Identification,https://www.empr.gov.bc.ca/Mining/Geoscience/PublicationsCatalogue/InformationCirculars/IC1987-05/Pages/contain.aspx,0,Failed to connect to www.empr.gov.bc.ca port 443: Connection refused
+Earth Science 11,ESC 11,Module 2,Minerals, Rocks and the Rock Cycle,Sedimentary Rock,https://www.bclearningnetwork.com/LOR/media/ES11/Unit5/images/chemical_LST.jpg,0,Unknown SSL protocol error in connection to www.bclearningnetwork.com:443 
+Earth Science 11,ESC 11,Module 2,Minerals, Rocks and the Rock Cycle,Rocks and the Rock Cycle,https://www.amnh.org/explore/resource-collections/earth-inside-and-out/james-hutton-the-founder-of-modern-geology,0,Failed to connect to www.amnh.org port 443: Connection reset by peer
+Earth Science 11,ESC 11,Module 2,Minerals, Rocks and the Rock Cycle,Energy Resources,https://www.energybc.ca/images/largehydro/kerrdam.jpg,0,Failed to connect to www.energybc.ca port 443: Connection reset by peer
+Earth Science 11,ESC 11,Module 2,Minerals, Rocks and the Rock Cycle,Energy Resources,https://www.pennenergy.com/content/dam/Pennenergy/online-articles/2016/09/solar_sky.jpg,0,Failed to connect to www.pennenergy.com port 443: Connection refused
+Earth Science 11,ESC 11,Module 3,Oceanography,Characteristics of Ocean Water,https://www.eoearth.org/article/Ocean,0,Connection timed out after 100000 milliseconds
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 1 READINGS,Changing Roles,https://www.statcan.gc.ca/pub/89f0133x/89f0133x2006000-eng.pdf,0,Failed to connect to www.statcan.gc.ca port 443: Connection reset by peer
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 1 READINGS,Changing Roles,https://www.statcan.gc.ca/pub/89f0133x/89f0133x2006000-eng.pdf,0,Failed to connect to www.statcan.gc.ca port 443: Connection reset by peer
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 1 READINGS,Changing Roles,https://www.bclearningnetwork.com//LOR/media/FS11/Adulthood/Section_1/Images/women_workforce.jpg,0,Unknown SSL protocol error in connection to www.bclearningnetwork.com:443 
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 1 READINGS,Changing Roles,https://www.vancouversun.com/news/stay-home/decline.html,404,
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 1 READINGS,Changing Roles,https://www.vancouversun.com/news/stay-home/decline.html,404,
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 1 READINGS,"Boomerang" Kids,https://www.statcan.gc.ca/pub/11-008-x/2006003/pdf/9480-eng.pdf,0,Failed to connect to www.statcan.gc.ca port 443: Connection reset by peer
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 1 READINGS,"Boomerang" Kids,https://www.statcan.gc.ca/pub/11-008-x/2006003/pdf/9480-eng.pdf,0,Failed to connect to www.statcan.gc.ca port 443: Connection reset by peer
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 1 READINGS,Retirement and Beyond,https://www.statcan.gc.ca/pub/82-003-s/2005000/pdf/9086-eng.pdf,0,Failed to connect to www.statcan.gc.ca port 443: Connection reset by peer
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 1 READINGS,Retirement and Beyond,https://www.statcan.gc.ca/pub/82-003-s/2005000/pdf/9086-eng.pdf,0,Failed to connect to www.statcan.gc.ca port 443: Connection reset by peer
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 1 READINGS,Retirement and Beyond,https://www.statcan.gc.ca/pub/82-003-s/2005000/pdf/9086-eng.pdf,0,Failed to connect to www.statcan.gc.ca port 443: Connection reset by peer
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 1 READINGS,Fear of Aging,https://www.bclearningnetwork.com/LOR/media/FS11/Adulthood/Section_1/Images/seniors_active.jpg,0,Unknown SSL protocol error in connection to www.bclearningnetwork.com:443 
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 1 READINGS,Ageism,https://www.bclearningnetwork.com/LOR/media/FS11/Adulthood/Section_1/Images/collisions_young_old.jpg,0,Unknown SSL protocol error in connection to www.bclearningnetwork.com:443 
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 1 READINGS,Reinventing Aging,https://www.reinventingaging.org/,0,Unknown SSL protocol error in connection to www.reinventingaging.org:443 
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 1 READINGS,Reinventing Aging,https://www.reinventingaging.org/,0,Unknown SSL protocol error in connection to www.reinventingaging.org:443 
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 2 READINGS,Emerging Adulthood,https://www.jeffreyarnett.com/index.htm,0,Unknown SSL protocol error in connection to www.jeffreyarnett.com:443 
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 2 READINGS,Intelligence and Memory,https://www.sharpbrains.com/teasers,0,Unknown SSL protocol error in connection to www.sharpbrains.com:443 
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 2 READINGS,Intelligence and Memory,https://www.sharpbrains.com/teasers,0,Unknown SSL protocol error in connection to www.sharpbrains.com:443 
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 2 READINGS,Erickson's Psychosocial Stages,https://www.youtube.com/v/CTGQ1OAr73Q,0,Unknown SSL protocol error in connection to www.youtube.com:443 
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 2 READINGS,Summary,https://www.dyingwithdignity.ca/,403,
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 2 READINGS,Summary,https://www.dyingwithdignity.ca,403,
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 3 READINGS,LESSON B - Personal Health and Well-Being for Adults,https://www.youtube.com/v/ff40YiMmVkU,0,Unknown SSL protocol error in connection to www.youtube.com:443 
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 3 READINGS,Healthy Eating,https://www.hc-sc.gc.ca/fn-an/food-guide-aliment/order-commander/index-eng.php,0,Failed to connect to www.hc-sc.gc.ca port 443: Connection timed out
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 3 READINGS,Healthy Eating,https://www.hc-sc.gc.ca/fn-an/food-guide-aliment/order-commander/index-eng.php,0,Failed to connect to www.hc-sc.gc.ca port 443: Connection timed out
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 3 READINGS,Physical Activity,https://www.who.int/mediacentre/news/notes/2011/world_cancer_day_20110204/en/index.html,0,Unknown SSL protocol error in connection to www.who.int:443 
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 3 READINGS,Managing Stress,https://www.cmha.ca/bins/content_page.asp?cid=4-42-216,404,
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 3 READINGS,Managing Stress,https://www.cmha.ca/bins/content_page.asp?cid=4-42-216,404,
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 3 READINGS,Social Relationships,https://www.plosmedicine.org/article/info%3Adoi%2F10.1371%2Fjournal.pmed.1000316,0,Failed to connect to www.plosmedicine.org port 443: Connection refused
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 3 READINGS,Work-Life Balance,https://www.cmha.ca/bins/balance_page.asp?cid=2-1841-1842&amp;lang=1,404,
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 3 READINGS,Summary,https://www.youtube.com/v/Qo6QNU8kHxI,0,Unknown SSL protocol error in connection to www.youtube.com:443 
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 3 READINGS,Smoking,https://www.hc-sc.gc.ca/hc-ps/tobac-tabac/quit-cesser/index-eng.php,0,Failed to connect to www.hc-sc.gc.ca port 443: Connection timed out
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 3 READINGS,Smoking,https://www.hc-sc.gc.ca/hc-ps/tobac-tabac/quit-cesser/index-eng.php,0,Failed to connect to www.hc-sc.gc.ca port 443: Connection timed out
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 3 READINGS,Alcohol,https://www2.parl.gc.ca/content/lop/researchpublications/prb0620-e.pdf,404,
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 3 READINGS,Sun Exposure,https://www.hc-sc.gc.ca/hl-vs/sun-sol/index-eng.php,0,Failed to connect to www.hc-sc.gc.ca port 443: Connection timed out
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 3 READINGS,Sun Exposure,https://www.hc-sc.gc.ca/hl-vs/sun-sol/index-eng.php,0,Failed to connect to www.hc-sc.gc.ca port 443: Connection timed out
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 3 READINGS,Sun Exposure,https://www1.agric.gov.ab.ca/$department/deptdocs.nsf/all/aet12212,0,Connection timed out after 100000 milliseconds
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 3 READINGS,Sun Exposure,https://www1.agric.gov.ab.ca/$department/deptdocs.nsf/all/aet12212,0,Connection timed out after 100000 milliseconds
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 3 READINGS,Oral Health,https://www.hc-sc.gc.ca/hl-vs/oral-bucco/index-eng.php,0,Failed to connect to www.hc-sc.gc.ca port 443: Connection timed out
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 3 READINGS,Oral Health,https://www.hc-sc.gc.ca/hl-vs/oral-bucco/index-eng.php,0,Failed to connect to www.hc-sc.gc.ca port 443: Connection timed out
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 3 READINGS,LESSON D - Financial Health,https://www3.thestar.com/static/PDF/poverty/081201_poverty_making_us_sick.pdf,404,
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 3 READINGS,Poverty,https://www3.thestar.com/static/PDF/poverty/081201_poverty_making_us_sick.pdf,404,
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 3 READINGS,Representation Agreements,https://www.nidus.ca/PDFs/Nidus_FactSheet_RA_Overview.pdf,404,
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 3 READINGS,Representation Agreements,https://www.nidus.ca/PDFs/Nidus_FactSheet_RA_Overview.pdf,404,
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 4 READINGS,Active Aging,https://whqlibdoc.who.int/hq/2002/WHO_NMH_NPH_02.8.pdf,0,Connection time-out
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 4 READINGS,Active Aging,https://whqlibdoc.who.int/hq/2002/who_nmh_nph_02.8.pdf,0,Connection timed out after 100000 milliseconds
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 4 READINGS,Housing,https://www.cmhc.ca/en/index.cfm,0,error:14077410:SSL routines:SSL23_GET_SERVER_HELLO:sslv3 alert handshake failure
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 4 READINGS,Civic Participation and Employment,https://www.gov.bc.ca/seniors/life/healthy/volunteering/,404,
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 4 READINGS,Civic Participation and Employment,https://www.gov.bc.ca/seniors/life/healthy/volunteering/,404,
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 4 READINGS,Supportive Housing,https://www.bclaws.ca/EPLibraries/bclaws_new/document/ID/freeside/00_02075_01,0,Unknown SSL protocol error in connection to www.bclaws.ca:443 
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 4 READINGS,Palliative Care/Hospice Care,https://www.chpca.net/press_releases/2010_07_20_Canada_Ranks_%209th_in_quality_of_death_index_MR.pdf,0,Failed to connect to www.chpca.net port 443: Connection refused
+Family Studies 11,FM 11,MODULE 1 - ADULTHOOD,SECTION 4 READINGS,Palliative Care/Hospice Care,https://www.hc-sc.gc.ca/hcs-sss/palliat/support-soutien/strateg-eng.php,0,Failed to connect to www.hc-sc.gc.ca port 443: Connection timed out
+Family Studies 11,FM 11,MODULE 2 - HOUSING AND LIVING ENVIRONMENTS,Lesson C: Government and Housing,Provincial Government,https://www.sbr.gov.bc.ca/individuals/Property_Taxes/Home_Owner_Grant/about.htm,0,Unknown SSL protocol error in connection to www.sbr.gov.bc.ca:443 
+Family Studies 11,FM 11,MODULE 2 - HOUSING AND LIVING ENVIRONMENTS,Lesson C: Government and Housing,Federal Government,https://www.cmhc-schl.gc.ca/,0,SSL read: error:00000000:lib(0):func(0):reason(0), errno 104
+Family Studies 11,FM 11,MODULE 2 - HOUSING AND LIVING ENVIRONMENTS,Lesson B: Costs of Independent Living,Purchasing Major Household Items,https://oee.nrcan.gc.ca/residential/10759,403,
+Family Studies 11,FM 11,MODULE 2 - HOUSING AND LIVING ENVIRONMENTS,Lesson C: Home Maintenance and Safety,Childproofing Your Home,https://www.healthycanadians.gc.ca/kids-enfants/index-eng.php,0,Unknown SSL protocol error in connection to www.healthycanadians.gc.ca:443 
