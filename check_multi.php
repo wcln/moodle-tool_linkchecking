@@ -78,30 +78,51 @@ function test_batch_sizes($start = 10, $end = 1000, $increment = 10) {
 function query_database($urltype = "http", $course_fullname = null) {
     global $DB; 
 
+    // query content
+    $query_content =   "SELECT {book_chapters}.id, fullname, shortname, {course_modules}.section, {course_sections}.name, {book}.name AS book, content, title
+                        FROM {book_chapters}, {book}, {course}, {course_modules}, {course_sections}, {course_categories}
+                        WHERE {book}.id = {book_chapters}.bookid
+                        AND {course}.id = {book}.course
+                        AND {course_modules}.course = {course}.id
+                        AND {course_modules}.instance = {book}.id
+                        AND {course_modules}.module = 18
+                        AND {course_sections}.id = {course_modules}.section
+                        AND {course}.category = {course_categories}.id
+                        AND ({course_categories}.parent = 28 OR {course_categories}.parent = 28)";
 
-    $query =   "SELECT {book_chapters}.id, fullname, shortname, {course_modules}.section, {course_sections}.name, {book}.name AS book, content, title, {course_sections}.summary, {course_sections}.id AS summary_id
-                FROM {book_chapters}, {book}, {course}, {course_modules}, {course_sections}, {course_categories}
-                WHERE {book}.id = {book_chapters}.bookid
-                AND {course}.id = {book}.course
-                AND {course_modules}.course = {course}.id
-                AND {course_modules}.instance = {book}.id
-                AND {course_modules}.module = 18
-                AND {course_sections}.id = {course_modules}.section
-                AND {course}.category = {course_categories}.id
-                AND ({course_categories}.parent = 28 OR {course_categories}.parent = 28)";
+    // query summaries
+    $query_summary = "SELECT {course_sections}.id AS section_id, {course_sections}.summary AS content, fullname, shortname, {course_sections}.name
+                      FROM {course_sections}, {course}
+                      WHERE {course}.id = {course_sections}.course";
 
+    // external urls (mdl_url)
+    $query_url = "SELECT {url}.id AS url_id, externalurl AS content, name, {course}.fullname, {course}.shortname
+                  FROM {url}, {course}
+                  WHERE {course}.id = {url}.course";
+
+
+    // add parameters
     if ($urltype == "http") {
-        $query .= " AND (content LIKE '%http:%' OR {course_sections}.summary LIKE '%http:%')";
+        $query_content .= " AND content LIKE '%http:%'";
+        $query_summary .= " AND {course_sections}.summary LIKE '%http:%'";
+        $query_url .= " AND {url}.externalurl LIKE '%http:%'";
     } else { // https
-        $query .= " AND (content LIKE '%https:%' OR {course_sections}.summary LIKE '%https:%')";
+        $query_content .= " AND content LIKE '%https:%'";
+        $query_summary .= " AND {course_sections}.summary LIKE '%https:%'";
+        $query_url .= " AND {url}.externalurl LIKE '%https:%'";
     }
 
     if (!is_null($course_fullname)) {
-        $query .= "AND fullname = '" . $course_fullname . "'";
+        $query_content .= "AND fullname = '" . $course_fullname . "'";
+        $query_summary .= "AND {course}.fullname = '" . $course_fullname . "'";
+        $query_url .= "AND {course}.fullname = '" . $course_fullname . "'";
     }
 
-    $result = $DB->get_records_sql($query);
-    return $result;
+    $result_content = $DB->get_records_sql($query_content);
+    $result_summary = $DB->get_records_sql($query_summary);
+    $result_url = $DB->get_records_sql($query_url); 
+
+    return array_merge(array_merge($result_content, $result_summary), $result_url);
 }
 
 /**
@@ -135,18 +156,19 @@ function extract_links($result, $lower_bound = 0, $upper_bound = 1000, $urltype 
 
     foreach ($result as $row) {
         $content = $row->content; // extract content from result set
-        $summary = $row->summary; // extract summary from result set
+
+        $is_summary = $is_url = false;
+        if (isset($row->section_id)) { // it is summary 
+            $is_summary = true;
+        } else if (isset($row->url_id)) { // it is an externalurl
+            $is_url = true;
+        }
 
         if ($urltype === "http") {
             preg_match_all('#\bhttp://[^,\s()<>]+(?:\([\w\d]+\)|([^,[:punct:]\s]|/))#', $content, $links); // extract HTTP URLs from content
-            preg_match_all('#\bhttp://[^,\s()<>]+(?:\([\w\d]+\)|([^,[:punct:]\s]|/))#', $summary, $summary_links); // extract HTTP URLs from summary
         } else {
             preg_match_all('#\bhttps://[^,\s()<>]+(?:\([\w\d]+\)|([^,[:punct:]\s]|/))#', $content, $links); // extract HTTPS URLs from content
-            preg_match_all('#\bhttps://[^,\s()<>]+(?:\([\w\d]+\)|([^,[:punct:]\s]|/))#', $summary, $summary_links); // extract HTTPS URLs from summary
         }
-        
-        $content_count = count($links);
-        $links = array_merge($links, $summary_links);
     
         foreach ($links[0] as $link) {
 
@@ -155,24 +177,18 @@ function extract_links($result, $lower_bound = 0, $upper_bound = 1000, $urltype 
                 continue;
             }
 
-            // is this link from the summary or the content?
-            $is_summary = false;
-            if ($total_http_link_counter > $content_count) {
-                $is_summary = true;
-            }
-
             array_push($all_data, [
                 'url' => $link,
                 'httpcode' => null,
                 'err' => null,
                 'fullname' => $row->fullname,
                 'shortname' => $row->shortname,
-                'name' => $row->name,
-                'title' => $row->title,
-                'id' => $row->id,
-                'book' => $row->book,
-                'is_summary' => $is_summary,
-                'summary_id' => $row->summary_id
+                'name' => isset($row->name) ? $row->name : null,
+                'title' => isset($row->title) ? $row->title : 'Course Outline',
+                'id' => isset($row->id) ? $row->id : null,
+                'book' => isset($row->book) ? $row->book : null,
+                'section_id' => isset($row->section_id) ? $row->section_id : null,
+                'url_id' => isset($row->url_id) ? $row->url_id : null
             ]);
 
             $total_http_link_counter++; // count total number of http links
@@ -403,11 +419,11 @@ function update_http_to_https_in_database($data) {
 
     foreach ($data as $d) {
 
-        if ($d['is_summary']) { // link is in summary?
+        if (!is_null($d['section_id'])) { // link is in summary
 
             // get old summary from database
             $params = [];
-            $params[] = $d['summary_id'];
+            $params[] = $d['section_id'];
             $summary = $DB->get_record_sql('SELECT summary FROM {course_sections} WHERE id=?', $params);
 
 
@@ -418,9 +434,17 @@ function update_http_to_https_in_database($data) {
             // update summary in database
             $params = [];
             $params[] = $new_summary;
-            $params[] = $d['summary_id'];
+            $params[] = $d['section_id'];
             $DB->execute('UPDATE {course_sections} SET summary=? WHERE id=?', $params);
 
+
+        } else if (!is_null($d['url_id'])) { // link is externalurl
+
+            // update link
+            $params = [];
+            $params[] = $d['url'];
+            $params[] = $d['url_id'];
+            $DB->execute('UPDATE {url} SET externalurl=? WHERE id=?', $params);
 
         } else { // link is in content
 
