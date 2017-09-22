@@ -24,7 +24,7 @@
 
 $string['pluginname'] = 'Check Links';
 $string['heading'] = 'Check Links';
-$string['linkcheckingintro'] = "This script will check all HTTP or HTTPS links found in course page content. Backing up the database table 'mdl_book_chapters' first is HIGHLY recommended. Execution time of the script may easily reach hours for large numbers of links.";
+$string['linkcheckingintro'] = "This script will check all HTTP or HTTPS links found in course page content. Backing up the database tables 'book_chapters', 'url', and 'course_sections' first is HIGHLY recommended. Execution time of the script may easily reach hours for large numbers of links.";
 $string['submit'] = 'Run';
 $string['HTTP'] = 'HTTP';
 $string['HTTPS'] = 'HTTPS';
