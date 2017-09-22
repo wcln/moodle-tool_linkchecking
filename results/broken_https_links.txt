@@ -1,0 +1,34 @@
+Accounting 11,Accounting 11,Unit 1,Topic 5 - Becoming a Professional Accountant,Accounting as a Profession,https://www.cga-canada.org/,0,Unknown SSL protocol error in connection to www.cga-canada.org:443 
+Social Studies 09,SS 09,Unit 1,1.3 North America's First Peoples,First Nations Languages,https://www.firstvoices.com/en/home,0,Failed to connect to www.firstvoices.com port 443: Connection refused
+Earth Science 11,ESC 11,,Release Notes,Summer 2011,https://video.nationalgeographic.com/video/player/science/space-sci/solar-system/solar-system-sci.html,0,Failed to connect to video.nationalgeographic.com port 443: Connection refused
+Earth Science 11,ESC 11,,Release Notes,Summer 2011,https://video.nationalgeographic.com/video/player/science/space-sci/solar-system/sun-101-sci.html,0,Failed to connect to video.nationalgeographic.com port 443: Connection refused
+Earth Science 11,ESC 11,,Release Notes,Summer 2011,https://video.nationalgeographic.com/video/player/national-geographic-channel/shows/naked-science/ngc-a-star-is-born-1.html,0,Failed to connect to video.nationalgeographic.com port 443: Connection refused
+Communications 11,COM 11,Unit 1,Lesson 3,Introduction and Focus,https://www.ebizmba.com/articles/search-engines,0,error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol
+Family Studies 12,FM 12,Module 1- Families in Society,Section 3 - Facing Family Challenges,Finding Help,https://www.hc-sc.gc.ca/fn-an/food-guide-aliment/myguide-monguide/index-eng.php,0,Failed to connect to www.hc-sc.gc.ca port 443: Connection timed out
+Family Studies 12,FM 12,Module 1- Families in Society,Putting it together,Research Project,https://noc.esdc.gc.ca/English/home.aspx,0,Connection time-out
+Family Studies 12,FM 12,Module 2 - Interpersonal and Family Relationships,Section 2 - Relationships,Forms of Love,https://www.ehow.co.uk/video_4986822_choose-partner-life.html,500,
+Family Studies 12,FM 12,Module 2 - Interpersonal and Family Relationships,Section 3 - Wellness and Safety in Interpersonal Relationships,Understanding Violence,https://www.gov.bc.ca/mcf/,404,
+Family Studies 12,FM 12,Module 2 - Interpersonal and Family Relationships,Section 3 - Wellness and Safety in Interpersonal Relationships,Understanding Violence,https://www.safekidsbc.ca/,0,Unknown SSL protocol error in connection to www.safekidsbc.ca:443 
+Chemistry 11,CH 11,Unit 1,Significant Figures and Rounding,Activities,https://antoine.frostburg.edu/chem/senese/101/measurement/sigfig-quiz.shtml,0,Failed to connect to antoine.frostburg.edu port 443: Connection reset by peer
+Chemistry 11,CH 11,Unit 1,Significant Figures and Rounding,Activities,https://www.dallassd.com/our%20schools/high%20school/chemsite/chem/hotpot/sf.htm,0,Connection timed out after 100000 milliseconds
+Chemistry 11,CH 11,Unit 1,Significant Figures and Rounding,Activities,https://www.mrwiggersci.com/chem/Tutorials/Ch2-Interact-Pract-Sig-Figs-Blacksburg.htm,0,Unknown SSL protocol error in connection to www.mrwiggersci.com:443 
+Chemistry 11,CH 11,Unit 1,Density, Graphs and Slope,Examples,https://www.lenntech.com/periodic-chart-elements/density.htm,0,Failed to connect to www.lenntech.com port 443: No route to host
+Chemistry 11,CH 11,Unit 1,Mixtures,Activity,https://antoine.frostburg.edu/chem/senese/101/matter/classify-properties-quiz.shtml,0,Failed to connect to antoine.frostburg.edu port 443: Connection reset by peer
+Chemistry 11,CH 11,Unit 1,Mixtures,Activity,https://antoine.frostburg.edu/chem/senese/101/matter/classify-properties-quiz.shtml,0,Failed to connect to antoine.frostburg.edu port 443: Connection reset by peer
+Chemistry 11,CH 11,Unit 2,Bohr &amp; Quantum Theory,Activities,https://www.zerobio.com/drag_gr9/bohr/bohr.htm,0,Connection time-out
+Chemistry 11,CH 11,Unit 2,Bohr &amp; Quantum Theory,Activities,https://www.chempractice.com/drills/java_Bohr.php,0,error:14077438:SSL routines:SSL23_GET_SERVER_HELLO:tlsv1 alert internal error
+Chemistry 11,CH 11,Unit 4,Molar Mass and Compounds,Activities,https://www.cstephenmurray.com/onlinequizes/chemistry/moles/findingmolarmass.htm,404,
+Chemistry 11,CH 11,Unit 4,Molar Concentration,Activities,https://ths.sps.lane.edu/chemweb/unit6/problems/molarity/,0,Unknown SSL protocol error in connection to ths.sps.lane.edu:443 
+Chemistry 11,CH 11,Unit 5,Balancing Equations  	 	,Activities,https://funbasedlearning.com/chemistry/chemBalancer/default.htm,0,error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol
+Chemistry 11,CH 11,Unit 5,Stoichiometry,Tutorials,https://www.digitalillusions.ca/applewoodscience/LessonsOnLiine/Chemistry/SCH3U0/stoichiometry/stoichiometry.html#anchor361011,404,
+Chemistry 11,CH 11,Unit 5,Stoichiometry,Activities,https://www.algebralab.org/practice/practice.aspx?file=Algebra_Stoichiometry.xml,0,Connection timed out after 100000 milliseconds
+Chemistry 11,CH 11,Unit 5,Stoichiometry,Activities,https://www.chemcollective.org/mr/index.php,404,
+Chemistry 11,CH 11,Unit 5,Limiting Reagents,Activities,https://ths.sps.lane.edu/chemweb/unit3/problems/limreact/index.htm,0,Unknown SSL protocol error in connection to ths.sps.lane.edu:443 
+Chemistry 11,CH 11,Unit 7 - Optional Content,Isomers of Alkanes,Activities,https://www.chemguide.co.uk/basicorg/isomerism/structural.html,404,
+Chemistry 11,CH 11,Unit 7 - Optional Content,Isomers of Alkanes,Activities,https://www.gcsescience.com/o27.htm,0,Failed to connect to www.gcsescience.com port 443: Connection refused
+Chemistry 11,CH 11,Unit 7 - Optional Content,Naming Organic Compounds,Activities,https://www.chemguide.co.uk/basicorg/conventions/names.html,404,
+Chemistry 11,CH 11,Unit 7 - Optional Content,Hydrocarbon Derivatives and Synthesis,Activities,https://exercises.murov.info/ex16-1.htm,404,
+Business Computer Applications 11,BCA 11,Unit 1 - Introduction,1-1 Basics,Netiquette,https://www.networketiquette.net/,0,Failed to connect to www.networketiquette.net port 443: Connection refused
+Business Computer Applications 11,BCA 11,Unit 1 - Introduction,1-1 Basics,Citing Sources,https://www.apastyle.org/learn/tutorials/basics-tutorial.aspx,0,Connection time-out
+Business Computer Applications 11,BCA 11,Unit 1 - Introduction,1-1 Basics,Citing Sources,https://www.apastyle.org,0,Connection time-out
+Business Computer Applications 11,BCA 11,Unit 2 - Software,2-4 Spreadsheets,Introduction,https://www.tutorialsforopenoffice.org/tutorial/Spreadsheet_Basics.html,404,
