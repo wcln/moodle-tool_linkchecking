@@ -28,4 +28,4 @@ $plugin->version   = 2017091100; // The current plugin version (Date: YYYYMMDDXX
 $plugin->requires  = 2016112900; // Requires this Moodle version.
 $plugin->component = 'tool_linkchecking'; // Full name of the plugin (used for diagnostics).
 $plugin->maturity = MATURITY_BETA;
-$plugin->release = 'v1.1';
+$plugin->release = 'v1.2';
