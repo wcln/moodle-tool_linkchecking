@@ -1,15 +1,17 @@
-History 12,HI 12,1.1: Truth in History, Nationalism, and Imperialism,Lesson 1.1 C: Nationalism and Imperialism in the Crises Leading Up to World War I,Militarism,http://www.spartacus.schoolnet.co.uk/FWWdreadnought.htm,0,Couldn't resolve host 'www.spartacus.schoolnet.co.uk'
-History 12,HI 12,1.1: Truth in History, Nationalism, and Imperialism,Lesson 1.1 C: Nationalism and Imperialism in the Crises Leading Up to World War I,Militarism,http://www.spartacus.schoolnet.co.uk/FWWbattlecruisers.htm,0,Couldn't resolve host 'www.spartacus.schoolnet.co.uk'
-History 12,HI 12,1.1: Truth in History, Nationalism, and Imperialism,Lesson 1.1 C: Nationalism and Imperialism in the Crises Leading Up to World War I,Militarism,http://www.spartacus.schoolnet.co.uk/FWWscout.htm,0,Couldn't resolve host 'www.spartacus.schoolnet.co.uk'
-History 12,HI 12,1.1: Truth in History, Nationalism, and Imperialism,Lesson 1.1 C: Nationalism and Imperialism in the Crises Leading Up to World War I,Militarism,http://www.spartacus.schoolnet.co.uk/FWWdestroyer.htm,0,Couldn't resolve host 'www.spartacus.schoolnet.co.uk'
-History 12,HI 12,1.1: Truth in History, Nationalism, and Imperialism,Lesson 1.1 C: Nationalism and Imperialism in the Crises Leading Up to World War I,Militarism,http://www.spartacus.schoolnet.co.uk/FWWcruisers.htm,0,Couldn't resolve host 'www.spartacus.schoolnet.co.uk'
-History 12,HI 12,1.1: Truth in History, Nationalism, and Imperialism,Lesson 1.1 C: Nationalism and Imperialism in the Crises Leading Up to World War I,Militarism,http://www.spartacus.schoolnet.co.uk/FWWdestroyer.htm,0,Couldn't resolve host 'www.spartacus.schoolnet.co.uk'
-History 12,HI 12,1.1: Truth in History, Nationalism, and Imperialism,Lesson 1.1 C: Nationalism and Imperialism in the Crises Leading Up to World War I,Militarism,http://www.spartacus.schoolnet.co.uk/FWWsubmarine.htm,0,Couldn't resolve host 'www.spartacus.schoolnet.co.uk'
-History 12,HI 12,1.1: Truth in History, Nationalism, and Imperialism,Lesson 1.1 C: Nationalism and Imperialism in the Crises Leading Up to World War I,Militarism,http://www.spartacus.schoolnet.co.uk/FWWcruisers.htm,0,Couldn't resolve host 'www.spartacus.schoolnet.co.uk'
-History 12,HI 12,1.1: Truth in History, Nationalism, and Imperialism,Lesson 1.1 C: Nationalism and Imperialism in the Crises Leading Up to World War I,Militarism,http://www.spartacus.schoolnet.co.uk/FWWdestroyer.htm,0,Couldn't resolve host 'www.spartacus.schoolnet.co.uk'
-History 12,HI 12,1.1: Truth in History, Nationalism, and Imperialism,Lesson 1.1 C: Nationalism and Imperialism in the Crises Leading Up to World War I,Militarism,http://www.spartacus.schoolnet.co.uk/FWWsubmarine.htm,0,Couldn't resolve host 'www.spartacus.schoolnet.co.uk'
-History 12,HI 12,1.1: Truth in History, Nationalism, and Imperialism,Lesson 1.1 C: Nationalism and Imperialism in the Crises Leading Up to World War I,Militarism,http://www.spartacus.schoolnet.co.uk/FWWtorpedoB.htm,0,Couldn't resolve host 'www.spartacus.schoolnet.co.uk'
-History 12,HI 12,1.1: Truth in History, Nationalism, and Imperialism,Lesson 1.1 C: Nationalism and Imperialism in the Crises Leading Up to World War I,Militarism,http://www.spartacus.schoolnet.co.uk/FWWdreadnought.htm,0,Couldn't resolve host 'www.spartacus.schoolnet.co.uk'
-History 12,HI 12,1.1: Truth in History, Nationalism, and Imperialism,Lesson 1.1 C: Nationalism and Imperialism in the Crises Leading Up to World War I,Militarism,http://www.spartacus.schoolnet.co.uk/FWWbattlecruisers.htm,0,Couldn't resolve host 'www.spartacus.schoolnet.co.uk'
-History 12,HI 12,1.1: Truth in History, Nationalism, and Imperialism,Lesson 1.1 C: Nationalism and Imperialism in the Crises Leading Up to World War I,Militarism,http://www.spartacus.schoolnet.co.uk/FWWsubmarine.htm,0,Couldn't resolve host 'www.spartacus.schoolnet.co.uk'
-History 12,HI 12,1.1: Truth in History, Nationalism, and Imperialism,Lesson 1.1 C: Nationalism and Imperialism in the Crises Leading Up to World War I,Militarism,http://www.spartacus.schoolnet.co.uk,0,Couldn't resolve host 'www.spartacus.schoolnet.co.uk'
+Earth Science 11,ESC 11,,Release Notes,Summer 2011,http://www.youtube.com/watch?v=VOz4PkdY7aA&amp;feature=related,404,
+Communications 12,COM 12,Unit 5,Lesson 10 - Share Your Voice,Lesson Details,http://prezi.com/embed/zxbzzpskm_c2/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;features=undefined&amp;disabled_features=undefined,400,
+Communications 12,COM 12,Unit 6,Lesson 11 - Stories,Lesson Details,http://www.bclearningnetwork.com/LOR/media/COMM12/unit6/Read,404,
+Family Studies 12,FM 12,Module 1- Families in Society,Section 3 - Facing Family Challenges,Coping with Financial Stress,http://www.nomoredebts.org,403,
+Family Studies 12,FM 12,Module 2 - Interpersonal and Family Relationships,Section 3 - Wellness and Safety in Interpersonal Relationships,Abusive relationships,http://www.ctv.ca/CTVNews/CTVNewsAt11/20030713/stastcan_violenceagainstmen_20030713/,404,
+Family Studies 12,FM 12,Module 2 - Interpersonal and Family Relationships,Putting it together,Component 1: Relationship  Teachers,http://www.jobsetc.ca/,404,
+Earth Science 11,ESC 11,,Release Notes,Summer 2012,http://video.about.com/geology/What-Are-Igneous-Rocks-.htm,404,
+Earth Science 11,ESC 11,,Release Notes,Summer 2012,http://video.about.com/geology/What-Are-Igneous-Rocks-.htm,404,
+Earth Science 11,ESC 11,,Release Notes,Summer 2012,http://video.about.com/geology/Types-of-Igneous-Rocks.htm,404,
+Earth Science 11,ESC 11,,Release Notes,Summer 2012,http://video.about.com/geology/Types-of-Igneous-Rocks.htm,404,
+Chemistry 11,CH 11,Unit 1,Lab Safety,Safety Information,http://www.chem.ualberta.ca/%7Eiip/safety_info/safety_proc.htm#Bi,404,
+Chemistry 11,CH 11,Unit 1,WHMIS,Activites,http://www.edquest.ca/index2.php?option=com_content&amp;task=view&amp;id=110&amp;pop=1&amp;page=0,500,
+Chemistry 11,CH 11,Unit 1,Dimensional Analysis,Activities,http://www.visionlearning.com/library/quiz_taker.php?qid=159&amp;mid=144,500,
+Chemistry 11,CH 11,Unit 2,Lewis Diagrams,Examples,http://www.bclearningnetwork.com/LOR/media/CH11/unit2/CHEM11_A3_160.gif,404,
+Chemistry 11,CH 11,Unit 4,The Mole,Activities,http://www.glencoe.com/qe/science.php?qi=978,404,
+Chemistry 11,CH 11,Unit 5,Stoichiometry,Activities,http://www.glencoe.com/qe/science.php?qi=979,404,
+Business Computer Applications 11,BCA 11,Unit 2 - Software,2-2 Using the word processor,The memo,http://www.penfield.com/UHGhandbook/memo.htm,404,

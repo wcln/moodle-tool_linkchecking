@@ -39,7 +39,8 @@ function tool_linkchecking_get_courses() {
     $courses = array();
 
     $sql = 'SELECT DISTINCT {course}.fullname 
-            FROM {course}';
+            FROM {course}
+            ORDER BY fullname';
 
     $rows = $DB->get_records_sql($sql);
 
