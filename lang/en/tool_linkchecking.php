@@ -18,7 +18,7 @@
  * Strings for component 'tool_generator', language 'en'.
  *
  * @package    tool_linkchecking
- * @copyright  2017 Colin Bernard {@link http://bclearningnetwork.com}
+ * @copyright  2017 Colin Perepelken {@link https://wcln.ca}
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
